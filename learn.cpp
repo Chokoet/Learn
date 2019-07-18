@@ -5,7 +5,7 @@ using namespace std;
 int main ()
 {
 
-cout << "Papagop le Mmago! <<endl;
+cout << "Papagop le Mmagodd! <<endl;
 
  return 0;
 {
